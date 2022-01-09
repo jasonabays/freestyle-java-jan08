@@ -3,4 +3,7 @@
 <target name="info">
 <echo> Hello World - Welcome to Simplilearn</echo>
 </target>
+<target name="info2">
+<echo> Hello World again!</echo>
+</target>
 </project>
