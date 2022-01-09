@@ -4,6 +4,12 @@
 <echo> Hello World - Welcome to Simplilearn</echo>
 </target>
 <target name="info2">
-<echo> Hello World again!</echo>
+<echo> Hello World again!  This is info2.</echo>
+</target>
+<target name="info3">
+<echo> This is info3.  You should not see this unless you target info 3.</echo>
+</target>
+<target name="info4">
+<echo> This is info4!</echo>
 </target>
 </project>
